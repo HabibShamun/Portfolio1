@@ -16,11 +16,11 @@ export const AboutSection = () => {
             </h3>
 
             <p className="text-muted-foreground">
-Aspiring full‑stack developer passionate about building modern, responsive, and accessible web applications while continuously learning and innovating.
+I’m Habib Salehin Shamun, a Full‑Stack Developer and Computer Science student at Leading University, Sylhet. I enjoy working with modern web technologies, writing clean code, and continuously expanding my technical skills.
             </p>
 
             <p className="text-muted-foreground">
-Full‑stack developer passionate about solving complex problems with elegant, modern solutions and building intuitive, engaging web applications.
+Beyond web development, I’m passionate about artificial intelligence, machine learning, and deep learning, and I’m eager to explore how these fields can be applied to solve complex, real‑world problems while growing as a versatile developer.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
